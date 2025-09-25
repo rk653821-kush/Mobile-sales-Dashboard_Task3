@@ -40,4 +40,4 @@ The objective is to design an **interactive dashboard** that helps business stak
 ## 🚀 How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/Mobile-Sales-Dashboard-PowerBI.git
+   git clone https://github.com/rk653821-kush/Mobile-Sales-Dashboard-PowerBI.git
